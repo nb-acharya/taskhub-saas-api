@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Project Path="src/TaskHub.Api/TaskHub.Api.csproj" Id="e6ce9376-4907-44d8-98f0-1c20c71c1570" />
+  <Project Path="src/TaskHub.Application/TaskHub.Application.csproj" Id="2020328d-f355-45ab-bb74-6d275e8a8fe5" />
+  <Project Path="src/TaskHub.Domain/TaskHub.Domain.csproj" Id="fd2ff0b4-cb55-4804-ac0c-edebcdb06252" />
+  <Project Path="src/TaskHub.Infrastructure/TaskHub.Infrastructure.csproj" Id="381137de-9304-4550-ab23-2ec5ba68fb88" />
+</Solution>
